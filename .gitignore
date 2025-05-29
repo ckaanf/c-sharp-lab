@@ -2,6 +2,9 @@
 /bin/
 /obj/
 
+learn-ms/bin/
+learn-ms/obj/
+
 # 사용자 환경 설정
 .vscode/
 

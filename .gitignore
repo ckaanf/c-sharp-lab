@@ -11,3 +11,9 @@ learn-ms/obj/
 # 기타
 *.user
 *.suo
+/.idea/.idea.c-sharp-lab.dir/.idea/.gitignore
+/.idea/.idea.c-sharp-lab.dir/.idea/encodings.xml
+/.idea/.idea.c-sharp-lab/.idea/git_toolbox_prj.xml
+/.idea/.idea.c-sharp-lab/.idea/indexLayout.xml
+/.idea/.idea.c-sharp-lab/.idea/projectSettingsUpdater.xml
+/.idea/.idea.c-sharp-lab/.idea/workspace.xml
